@@ -1,0 +1,27 @@
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+
+text {
+    text-align: center;
+    
+}
+
+img footer {
+    height: 100%;
+}
+
+footer {
+    text-align: center;
+    
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: auto;
+    box-sizing: border-box;
+    height: 160px;
+    width: 100%;
+    
+
+}
